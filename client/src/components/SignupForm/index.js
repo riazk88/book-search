@@ -1,9 +1,9 @@
 import React, { useState } from 'react';
 import { Form, Button, Alert } from 'react-bootstrap';
 
-import { ADD_USER } from '../utils/mutation';
+import { ADD_USER } from '../../utils/mutation';
 import { useMutation } from '@apollo/react-hooks';
-import Auth from '../utils/auth';
+import Auth from '../../utils/auth';
 
 const SignupForm = () => {
   const [addUser, { error }]=useMutation(ADD_USER);
