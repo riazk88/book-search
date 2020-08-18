@@ -36,8 +36,12 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 
 ## Check it out!
 
-<img src="https://github.com/riazk88/book-search/blob/master/book_search.png?raw=true" alt="Kiran"/>
+<img src="https://github.com/riazk88/book-search/blob/master/book_search.png?raw=true" alt="booksearch"/>
 
-<img src="https://github.com/riazk88/book-search/blob/master/login.png?raw=true" alt="Kiran"/>
+<img src="https://github.com/riazk88/book-search/blob/master/login.png?raw=true" alt="login"/>
 
-<img src="https://github.com/riazk88/book-search/blob/master/signup.png?raw=true" alt="Kiran"/>
+<img src="https://github.com/riazk88/book-search/blob/master/signup.png?raw=true" alt="signup"/>
+
+## Deployed App
+
+https://mean-book-search.herokuapp.com
